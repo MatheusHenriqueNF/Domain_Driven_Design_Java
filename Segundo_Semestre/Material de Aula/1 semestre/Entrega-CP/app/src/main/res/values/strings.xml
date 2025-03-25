@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CP2-MURILLO-RM553315</string>
+    <string name="edit_text_nome">Name</string>
+    <string name="edit_text_sobrenome">Surname</string>
+    <string name="edit_text_email">E-mail</string>
+    <string name="spinner">Choose</string>
+    <string name="btn_enviar">Send</string>
+    <string name="txt_titulo">Project CheckPoint 02</string>
+    <string name="txt_titulo02">View the Information</string>
+    <string name="txt_texto">Summary of Information</string>
+
+
+    <!-- Informações do output -->
+    <string name="txt_nome">Name: </string>
+    <string name="txt_sobrenome">Surname: </string>
+    <string name="txt_email">E-mail: </string>
+
+
+    <string-array name="genero" tools:ignore="InconsistentArrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Traduzindo os campos do formulário CORRETOS -->
+    <string name="editavel_nome">Name</string>
+    <string name="editavel_sobrenome">Surname</string>
+    <string name="editavel_email">E-mail</string>
+    <string name="editavel_titulo">Project CheckPoint 02</string>
+    <string name="campo_spiner_sexo">Choose</string>
+    <string name="editavel_btn">Send</string>
+
+    <!-- Adicionando as opções do spinner -->
+    <string-array name="campo_spiner_sexo">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <!-- Informações do output -->
+    <string name="lbl_nome">Name: </string>
+    <string name="lbl_sobrenome">Surname: </string>
+    <string name="lbl_email">E-mail: </string>
+
+    <!-- traduzindo campo da primeira tela -->
+    <string name="btn_entrar">Enter</string>
+    <string name="txt_bemvindo">Welcome to the system!</string>
+
+</resources>

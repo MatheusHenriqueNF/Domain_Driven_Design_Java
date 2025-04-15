@@ -1,0 +1,15 @@
+Turma: 1TDSQ
+
+=== Integrantes ===
+
+nome/RM: Cleyton Enrike de Oliveira RM560485
+nome/RM: Matheus Henrique Nascimento de Freitas RM560442
+nome/RM: Pedro Henrique de Souza Sena RM561178
+
+Considerações ->
+
+Para o desenvolvimento do projeto, foi necessário implementar novas funcionalidades, 
+como a conversão de uma String para o formato JSON, o que exigiu a utilização da classe 
+JSONObject. Vale destacar que a integração dessas funcionalidades foi resultado de 
+pesquisas realizadas pelo grupo, e não fruto de tentativas aleatórias ou experimentações 
+sem embasamento.
